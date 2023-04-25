@@ -21,6 +21,6 @@
 ## Features
 
 - Qr Logger
-- Anonfiles Logger
+- Anonfiles Logger ( Big thanks to BoofSec )
 - Link Shortener Logger
 - Cross platform Logger Support
