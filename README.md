@@ -20,7 +20,7 @@
 
 ## Features
 
+- Qr Logger
 - Anonfiles Logger
 - Link Shortener Logger
-- Qr Logger
 - Cross platform Logger Support
