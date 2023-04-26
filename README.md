@@ -21,6 +21,8 @@
 ## Features
 
 - Qr Logger
+- Classic Logger W Location Logger
 - Anonfiles Logger ( Big thanks to BoofSec )
+- LetsUpload.cc Logger
 - Link Shortener Logger
 - Cross platform Logger Support
