@@ -22,7 +22,9 @@
 
 - Qr Logger
 - Classic Logger W Location Logger
-- Anonfiles Logger ( Big thanks to BoofSec )
-- LetsUpload.cc Logger
+- LetsUpload.cc Logger:
 - Link Shortener Logger
 - Cross platform Logger Support
+
+## Screenshots & Previews
+![Anon](https://user-images.githubusercontent.com/90114741/234982761-87f64dc2-371a-4bb1-89ae-1975f21f60ac.png)
